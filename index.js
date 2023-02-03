@@ -41,8 +41,8 @@ var questions = [
     ans: "itsofficialamar"
   },
   {
-    question: "Who is amar's real love? ",
-    ans: "seema"
+    question: "Who is amar's best friend? ",
+    ans: "abhishek"
   }
 ];
 
