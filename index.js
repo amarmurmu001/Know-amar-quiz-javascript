@@ -32,6 +32,11 @@ var questions = [
     question: "Where do amar live? ",
     ans: "dhanbad"
   },
+  
+  {
+    question: "Where do Sourav live? ",
+    ans: "jhariya"
+  },
   {
     question: "Who is amar's fav superhero? ",
     ans: "ironman"
